@@ -19,7 +19,7 @@ I'm a final year student majoring in Computer Networks and Data Communications, 
 
 ### UX/UI
 
-<img align="left" alt="Figma" width="50px" style="padding-right:10px;" src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" /><br />
+<img align="left" alt="Figma" width="50px" style="padding-right:10px;" src="https://cdn.softwarereviews.com/production/logos/offerings/9950/medium/figma2.png" /><br />
 
 <br/>
 
