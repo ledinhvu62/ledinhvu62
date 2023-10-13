@@ -2,7 +2,7 @@
 
 **`Frontend Developer`**
 
-I'm a final year student majoring in Computer Networks and Data Communications, University of Information Technology - Vietnam National University Ho Chi Minh City.
+I'm a student majoring in Computer Networks and Data Communications, University of Information Technology - Vietnam National University Ho Chi Minh City.
 
 ### Languages and Tools
 
@@ -13,4 +13,4 @@ I'm a final year student majoring in Computer Networks and Data Communications, 
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="ReactJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Redux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="Figma" width="50px" style="padding-right:10px;" src="https://cdn.softwarereviews.com/production/logos/offerings/9950/medium/figma2.png" />
+<img align="left" alt="Redux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/next-original.svg" />
